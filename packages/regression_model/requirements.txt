@@ -3,4 +3,4 @@
 # updates/fixes, whilst ensuring we don't install a major update which could introduce backwards incompatible changes.
 numpy>=1.18.1,<1.19.0
 pandas>=0.25.3,<0.26.0
-scikit-learn>=0.22.1,<0.23.0
+scikit-learn>=0.20.1,<0.23.0
